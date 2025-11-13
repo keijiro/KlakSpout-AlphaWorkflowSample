@@ -190,6 +190,15 @@
       },
       "url": "https://registry.npmjs.com"
     },
+    "jp.keijiro.klak.syphon": {
+      "version": "1.0.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.screencapture": "1.0.0"
+      },
+      "url": "https://registry.npmjs.com"
+    },
     "jp.keijiro.klutter-tools": {
       "version": "2.4.3",
       "depth": 0,
